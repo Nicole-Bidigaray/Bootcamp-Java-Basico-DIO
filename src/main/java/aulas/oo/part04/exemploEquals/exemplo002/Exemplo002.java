@@ -7,7 +7,7 @@ public class Exemplo002 {
         Veiculo carro1 = new Carro("Palio", "Fiat", 20000.0);
         Veiculo carro2 = new Carro("Palio", "Fiat", 20000.0);
 
-        System.out.println(carro1.equals(carro2)); //false
+        System.out.println(carro1.equals(carro2)); //false tirando as condições no Veiculo.java
 
     }
 

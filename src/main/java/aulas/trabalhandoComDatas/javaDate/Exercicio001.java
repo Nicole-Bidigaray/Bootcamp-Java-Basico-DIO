@@ -28,21 +28,18 @@ public class Exercicio001 {
      *
      *
      * @param epoch
-     * @return
      */
-    public Date checaLong(long epoch) {
+    public void checaLong(long epoch) {
 
         Date date = new Date(1563385317992L);
 
         System.out.println(date);
 
 
-        return null;
     }
 
     /**
      *
-     * @return
      */
     public long dateToLong() {
 
